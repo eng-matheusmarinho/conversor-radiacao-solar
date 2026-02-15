@@ -1,0 +1,11 @@
+# arquivos temporários
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# outputs e dados grandes (ajuste se quiser)
+outputs/
+output/
+*.png
+*.pdf
+*.zip
